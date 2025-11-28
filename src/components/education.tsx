@@ -22,8 +22,8 @@ const certifications = [
   'AWS Cloud Practitioner – AWS Training & Certification',
   'Java Masterclass – Tim Buchalka (Udemy)',
   'The Complete Full-Stack Web Development Bootcamp – Dr. Angela Yu (Udemy)',
+  'Learn UI/UX Design with Figma: Prototyping, Web & Mobile Interface Design – Udemy',
 ];
-
 export function Education() {
   return (
     <section id="education" className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-br from-purple-900 via-blue-900 to-gray-900 relative overflow-hidden">
