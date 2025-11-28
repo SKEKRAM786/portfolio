@@ -2,6 +2,11 @@ import { Code2, Palette, Smartphone, Database, Globe, Zap } from 'lucide-react';
 
 const skills = [
   {
+    icon: Smartphone,
+    title: 'UI/UX & Product Design',
+    description: 'Figma, UI/UX Design, Wireframing, Prototyping, Design Thinking, User Research, Usability Testing, Accessibility (A11y), Figma AI, Adobe XD',
+  },
+  {
     icon: Code2,
     title: 'Frontend Development',
     description: 'React, Next.js, Angular, HTML5, CSS3, JavaScript',
